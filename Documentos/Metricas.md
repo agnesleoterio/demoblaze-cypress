@@ -12,5 +12,5 @@ Percentual de funcionalidades cobertas pelos testes automatizados. Idealmente, p
 **Taxa de Erros por Funcionalidade** <br>
 Monitorar o número de falhas por funcionalidade testada, visando identificar pontos frágeis na aplicação.
 
-**Feedback de Erros (Logs e Captura de Vídeos)**<br>
-Analisar os logs e vídeos gerados pelo Cypress para entender falhas rapidamente e otimizar o processo de correção.
+**Feedback de Erros (Logs e Captura de tela)**<br>
+Analisar os logs e Print Screen gerados pelo Cypress para entender falhas rapidamente e otimizar o processo de correção.
