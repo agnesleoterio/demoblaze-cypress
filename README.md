@@ -5,9 +5,9 @@ Este repositório contém o plano de teste para a aplicação Demo Blaze, que si
 
 
 ## Documentos 
-* [Plano de teste](https://github.com/deborahmoura/DemoBlaze_teste_cypress/blob/main/Documentos/Plano%20de%20teste)
+* [Plano de teste](https://github.com/deborahmoura/deborahmoura-Proesc-demoblaze/blob/main/Documentos/Plano%20de%20testes.md)
 
-* [Metricas](https://github.com/deborahmoura/DemoBlaze_teste_cypress/blob/main/Documentos/Metricas%20dos%20testes)
+* [Metricas](https://github.com/deborahmoura/deborahmoura-Proesc-demoblaze/blob/main/Documentos/Metricas.md)
 
 ## Como Rodar os Testes
 
