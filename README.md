@@ -1,50 +1,27 @@
 # DemoBlaze_teste_cypress
 
 
-Este repositório contém o plano de teste para a aplicação Demo Blaze, que simula uma loja virtual com funcionalidades como cadastro de usuário e manipulação de produtos. Os testes serão realizados utilizando a ferramenta Cypress.
+# 🧪 Projeto de Testes Automatizados com Cypress - DemoBlaze
 
+Este repositório contém testes automatizados para o site [DemoBlaze](https://www.demoblaze.com/), desenvolvidos com a ferramenta Cypress. O projeto foi realizado como parte de um exercício de aprendizado, com base neste repositório original: [[https://github.com/exemplo/repositorio-original](https://github.com/deborahmoura/demoblaze-cypress)].
+
+## 🎯 Objetivo
+
+O objetivo deste projeto é praticar a automação de testes de interface para aplicações web, utilizando o site DemoBlaze como base. Essa aplicação simula um e-commerce com funcionalidades como cadastro de usuário, login e manipulação de produtos.
 
 ## Documentos 
 * [Plano de teste](https://github.com/deborahmoura/deborahmoura-Proesc-demoblaze/blob/main/Documentos/Plano%20de%20testes.md)
 
 * [Metricas](https://github.com/deborahmoura/deborahmoura-Proesc-demoblaze/blob/main/Documentos/Metricas.md)
 
-## Como Rodar os Testes
+## 🔧 Tecnologias e Ferramentas
 
-### Pré-requisitos
+- Cypress
+- JavaScript
+- Visual Studio Code
 
-- **Node.js** e **npm** (ou **yarn**) instalados.
-- **Cypress** instalado no projeto.
+## 📚 Contexto
 
-### Passo 1: Instalar Dependências
+Este projeto é um **fork educacional** de [https://github.com/exemplo/repositorio-original](https://github.com/exemplo/repositorio-original). Parte da estrutura e do conteúdo foram mantidos para fins de estudo. Realizei adaptações e execuções para aprofundar meus conhecimentos em testes automatizados com Cypress.
 
-No diretório raiz do projeto, execute:
 
-```bash
-npm install cypress --save-dev
-```
-depois
-```bash
-npm install
-```
-
-ou
-
-```bash
-yarn install
-```
-
-### Passo 2: Rodar os Testes
-
-Para rodar os testes, execute o seguinte comando:
-
-```bash
-npx cypress open
-```
-
-Isso abrirá a interface do Cypress onde você pode executar os testes de forma interativa.
-
-Você também pode rodar os testes em modo headless com o comando:
-
-```bash
-npx cypress run
