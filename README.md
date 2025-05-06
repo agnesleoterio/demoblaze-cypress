@@ -15,8 +15,5 @@ O objetivo deste projeto é praticar a automação de testes de interface para a
 - JavaScript
 - Visual Studio Code
 
-## 📚 Contexto
-
-Este projeto é um **fork educacional** de [https://github.com/exemplo/repositorio-original](https://github.com/exemplo/repositorio-original). Parte da estrutura e do conteúdo foram mantidos para fins de estudo. Realizei adaptações e execuções para aprofundar meus conhecimentos em testes automatizados com Cypress.
 
 
